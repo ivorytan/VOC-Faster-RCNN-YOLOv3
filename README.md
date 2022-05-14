@@ -1,6 +1,6 @@
 Github存储地址：https://github.com/ivorytan/VOC-Faster-RCNN-YOLOv3
 
-模型存储地址：
+模型存储地址：链接：https://pan.baidu.com/s/1U8KCPFePkguEn6KOiS1IlQ 提取码：ko2z
 
 
 
